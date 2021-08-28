@@ -1,4 +1,4 @@
-E-commerce Live Link: https://cocky-allen-7068e0.netlify.app/
+E-commerce Live Link: https://shop-ebuy.netlify.app/
 
 
 
